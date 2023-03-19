@@ -1,6 +1,5 @@
  # Hi There! 👋
 
-* 🏠 I am Suhrudh S, undergraduate at Dept. of Electrical and Electronics Engineering, BITS Pilani, KK Birla Goa Campus
-* 🤖 I am interested in Robotics and I am exploring Path Planning, Perception and State Estimation.
-* 💼 I am currently a Research Intern at [RBCCPS](https://cps.iisc.ac.in) under the supervision of [Prof. Shishir Kolathaya](http://www.shishirny.com)
+* 🏠 I am Suhrudh S, working as a Robotics Engineer at Peppermint Robotics. I rencently graduated from BITS Goa with a Bachelor's in EEE.
+* 🤖 I work on developing Robotics Algorithms for service robots.
 * 📞 You can send me an [email](mailto:suhrudhs@gmail.com) or DM on [Twitter](https://twitter.com/SuhrudhS)
